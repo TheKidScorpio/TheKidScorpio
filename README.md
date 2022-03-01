@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheKidScorpio aka Malachi
+- 👋 Hi, I’m TheKidScorpio aka Malachi
 - 👀 I’m interested in learning new code, comics, anime, and video games
 - 🌱 I’m currently learning how to use java and javascript.
 - 💞️ I’m looking to collaborate on anything computer and game related also anything related to comics
